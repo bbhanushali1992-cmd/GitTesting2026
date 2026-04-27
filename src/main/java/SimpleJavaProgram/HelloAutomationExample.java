@@ -6,5 +6,6 @@ public class HelloAutomationExample {
         System.out.println("Hello Automation");
         
 System.out.println("Mentor is Ganesh Jadhav");
+System.out.println("Java is object Oriented programming language");
     }
 }
